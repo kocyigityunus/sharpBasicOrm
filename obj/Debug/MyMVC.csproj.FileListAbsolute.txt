@@ -1,0 +1,7 @@
+C:\Users\Yunus KOÇYİĞİT\Documents\Visual Studio 2012\Projects\ConsoleApplication1\MyMVC\obj\Debug\MyMVC.csprojResolveAssemblyReference.cache
+C:\Users\Yunus KOÇYİĞİT\Documents\Visual Studio 2012\Projects\ConsoleApplication1\MyMVC\bin\Debug\MyMVC.dll
+C:\Users\Yunus KOÇYİĞİT\Documents\Visual Studio 2012\Projects\ConsoleApplication1\MyMVC\bin\Debug\MyMVC.pdb
+C:\Users\Yunus KOÇYİĞİT\Documents\Visual Studio 2012\Projects\ConsoleApplication1\MyMVC\bin\Debug\System.Data.SQLite.dll
+C:\Users\Yunus KOÇYİĞİT\Documents\Visual Studio 2012\Projects\ConsoleApplication1\MyMVC\obj\Debug\MyMVC.dll
+C:\Users\Yunus KOÇYİĞİT\Documents\Visual Studio 2012\Projects\ConsoleApplication1\MyMVC\obj\Debug\MyMVC.pdb
+C:\Users\Yunus KOÇYİĞİT\Documents\Visual Studio 2012\Projects\ConsoleApplication1\MyMVC\bin\Debug\System.Data.SQLite.pdb
