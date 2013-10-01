@@ -1,7 +1,9 @@
 sharpBasicOrm
 =============
 
-not: this system uses sqlite. you may need to install system.data.sqlite at your visual studio.
+a basic orm for c#
+
+note : this system uses sqlite. you may need to install system.data.sqlite at your visual studio.
 
 using : 
 
@@ -49,4 +51,4 @@ using :
             }
 
 
-a basic orm for c#
+
