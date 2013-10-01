@@ -31,7 +31,6 @@ using :
                 ogr.Insert(dc);
                 ogr.Dispose();
                 
-
                 Console.ReadKey();
 
                 OGRENCI[] ogrenciler = Session.FindObjects<OGRENCI>(dc, "SELECT * FROM OGRENCI");
