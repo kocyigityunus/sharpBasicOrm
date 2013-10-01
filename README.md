@@ -5,17 +5,19 @@ not: this system uses sqlite. you may need to install system.data.sqlite at your
 
 using : 
 
-public class OGRENCI : ModelBase
-    {
-        [MaxLength(50)]
-        public string ADSOYADFIELD;
-        public int NUMARAFIELD;
-        public double NOTORTALAMASIFIELD;
-        public bool MEZUNFIELD;
-        public DateTime OKULABASLAMATARIHIFIELD;
-    }
+
     
 then : 
+
+			public class OGRENCI : ModelBase
+    		{
+        		[MaxLength(50)]
+        		public string ADSOYADFIELD;
+        		public int NUMARAFIELD;
+        		public double NOTORTALAMASIFIELD;
+        		public bool MEZUNFIELD;
+        		public DateTime OKULABASLAMATARIHIFIELD;
+    		}
 
             DataCore dc = null;
 
