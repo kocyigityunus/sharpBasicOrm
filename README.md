@@ -5,10 +5,6 @@ not: this system uses sqlite. you may need to install system.data.sqlite at your
 
 using : 
 
-
-    
-then : 
-
 			public class OGRENCI : ModelBase
     		{
         		[MaxLength(50)]
