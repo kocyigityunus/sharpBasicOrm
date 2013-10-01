@@ -22,9 +22,6 @@ using :
                 dc = new DataCore();
                 dc.connectAndInitialize();
 
-                Stopwatch sw = new Stopwatch();
-                sw.Start();
-
                 OGRENCI ogr = new OGRENCI();
                 ogr.MEZUNFIELD = false;
                 ogr.NUMARAFIELD = 100202045;
@@ -34,8 +31,6 @@ using :
                 ogr.Insert(dc);
                 ogr.Dispose();
                 
-
-                sw.Stop();
 
                 Console.ReadKey();
 
