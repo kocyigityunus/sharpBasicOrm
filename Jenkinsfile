@@ -10,7 +10,7 @@ pipeline {
         }
         stage('def') {
           steps {
-            sh 'ls a-l'
+            sh 'ls -al'
           }
         }
       }
