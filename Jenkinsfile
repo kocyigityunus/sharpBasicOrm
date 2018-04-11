@@ -15,5 +15,10 @@ pipeline {
         }
       }
     }
+    stage('fgh') {
+      steps {
+        sh 'ls -al'
+      }
+    }
   }
 }
